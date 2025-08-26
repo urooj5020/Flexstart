@@ -4,7 +4,13 @@
     box-sizing: border-box;
     font-family: "Nunito", sans-serif;
 }
-
+body{
+    min-height: 330px;
+}
+.wrapper{
+    max-width: 1800px;
+    margin: auto;
+}
 .background_div {
     background: "#ffffff";
     background-image: radial-gradient(circle at top left,
