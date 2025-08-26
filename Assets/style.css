@@ -5,7 +5,7 @@
     font-family: "Nunito", sans-serif;
 }
 body{
-    min-height: 330px;
+    min-width: 330px;
 }
 .wrapper{
     max-width: 1800px;
